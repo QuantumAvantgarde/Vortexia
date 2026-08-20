@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 460" role="img" aria-labelledby="title desc">
+  <title id="title">Vortexia city bus</title>
+  <desc id="desc">A warm orange city bus travelling through a simple urban landscape.</desc>
+  <rect width="720" height="460" fill="#f2f0eb"/>
+  <circle cx="575" cy="90" r="44" fill="#ffd98a"/>
+  <path d="M0 280 C120 235 178 270 290 238 S505 205 720 258 V460 H0Z" fill="#dfe4e2"/>
+  <path d="M0 332 C150 302 252 348 390 314 S586 298 720 332 V460 H0Z" fill="#c9d2d0"/>
+  <path d="M75 218h540c17 0 30 13 30 30v111H45V248c0-17 13-30 30-30Z" fill="#ee7d32"/>
+  <path d="M45 314h600v45H45z" fill="#bd4d1f"/>
+  <path d="M96 244h378v65H96z" fill="#193746"/>
+  <path d="M492 244h105v65H492z" fill="#193746"/>
+  <path d="M110 257h105v39H110zM230 257h105v39H230zM350 257h105v39H350zM507 257h75v39h-75z" fill="#b9e0dd"/>
+  <path d="M75 333h540v18H75z" fill="#f7b23b"/>
+  <circle cx="150" cy="361" r="34" fill="#25313b"/><circle cx="150" cy="361" r="15" fill="#d9e0de"/>
+  <circle cx="525" cy="361" r="34" fill="#25313b"/><circle cx="525" cy="361" r="15" fill="#d9e0de"/>
+  <path d="M74 219c25-62 91-86 165-86h174c65 0 111 20 157 86H74Z" fill="#f18b43"/>
+  <path d="M196 142h200l39 76H157Z" fill="#193746"/>
+  <path d="M213 151h77v58h-47zM300 151h78l29 58h-107z" fill="#b9e0dd"/>
+  <path d="M91 327h508" stroke="#fff4dc" stroke-width="5" stroke-dasharray="20 18" opacity=".85"/>
+  <path d="M32 402h656" stroke="#9ca9a8" stroke-width="6" stroke-linecap="round"/>
+  <path d="M110 402c40-16 74-16 114 0M464 402c40-16 74-16 114 0" fill="none" stroke="#f18b43" stroke-width="9" stroke-linecap="round"/>
+</svg>

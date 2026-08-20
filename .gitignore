@@ -1,0 +1,24 @@
+# Node / package manager
+node_modules/
+**/node_modules/
+
+# Environment and secrets
+.env
+.env.*
+**/.env
+**/.env.*
+*.pem
+*.key
+credentials.json
+
+# Build output
+frontend/dist/
+frontend/.vite/
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS junk
+.DS_Store
+Thumbs.db
