@@ -32,7 +32,11 @@ export function forceHttps(req, res, next) {
 
 // Restrict cross-origin access to the known frontend origin only.
 export const corsPolicy = cors({
-  origin: process.env.ALLOWED_ORIGIN || "http://localhost:5173",
+  origin: process.env.ALLOWED_ORIGIN || "export const corsPolicy = cors({
+  origin: process.env.ALLOWED_ORIGIN || "https://main.d1atmd95seexy0.amplifyapp.com",
+  credentials: true, 
+  methods: ["GET", "POST", "PATCH", "DELETE"],
+});",
   credentials: true, // required so the httpOnly session cookie is sent
   methods: ["GET", "POST", "PATCH", "DELETE"],
 });
