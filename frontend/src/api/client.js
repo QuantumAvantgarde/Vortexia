@@ -7,7 +7,7 @@
 // via HTTP-referrer + API restrictions in the Google Cloud Console, and kept
 // separate from the server-side GOOGLE_MAPS_SERVER_KEY used for backend
 // geocoding calls.
-const API_BASE = import.meta.env.VITE_API_BASE_URL || "http://44.200.9.138/auth/login";
+const API_BASE = import.meta.env.VITE_API_BASE_URL || "http://44.200.9.138";
 
 async function request(path, options = {}) {
   const res = await fetch(`${API_BASE}${path}`, {
